@@ -9,9 +9,7 @@ import {
   Calendar, 
   Brain, 
   Moon, 
-  Zap, 
-  ChevronRight,
-  Loader2,
+  Zap,
   AlertCircle
 } from 'lucide-react';
 import './App.css';
